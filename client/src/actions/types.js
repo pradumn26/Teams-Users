@@ -1,0 +1,2 @@
+export const FETCH_BEERS = 'FETCH_BEERS';
+export const FETCH_BEER_IMAGES = 'FETCH_BEER_IMAGES';
