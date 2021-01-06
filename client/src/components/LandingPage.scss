@@ -1,0 +1,56 @@
+.input-label {
+    margin: 0 0 2px 0;
+    font-size: 11px;
+}
+
+.input-select {
+    height: 36px;
+    width: 200px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-radius: 4px;
+    padding: 0 7px;
+}
+
+.input-text {
+    height: 34px;
+    width: 200px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+.input-textarea {
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-radius: 4px;
+    height: 100px;
+}
+
+.btn {
+    height: 36px;
+    border: none;
+    border-radius: 4px;
+    width: 100px;
+    outline: none;
+    box-shadow: none;
+    cursor: pointer;
+}
+
+.team-tab {
+    width: 90%;
+    border-right: solid 7px #E3B343;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.team-tab-selected {
+    background-color: #F4C05B;
+    color: white;
+}
